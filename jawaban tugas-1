@@ -1,0 +1,39 @@
+NAMA    : RADEN MUHAMMAD ADHA ABIJAKSANA
+KELAS   : 5 MIO
+NIM     : 062040832805
+MATKUL  : PRAK. REKAYASA WEB
+
+
+1. Apa itu Git dan kegunaanya
+   jawab:
+   sebuah version control system yang telah digunakan oleh para developer untuk dapat mengembangkan software secara bersamaan. Fungsi utama dari GIT 
+   adalah mengatur versi source code program dengan memberikan tanda baris serta code mana yang perlu ditambah ataupun diganti
+   
+2. Apa itu Github dan kegunaanya
+   jawab: 
+   GitHub merupakan manajemen project, sistem versioning code, sekaligus platform jaringan sosial bagi para developer seluruh dunia. GitHub digunakan 
+   untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu. Ini memungkinkan pengguna untuk berkolaborasi 
+   dalam proyek secara lebih efektif dengan menyediakan alat untuk mengelola perubahan yang mungkin bertentangan dari beberapa pengembang.
+   
+3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut
+   jawab: 
+   * Git merupakan sistem pengontrol versi yang dikembangkan oleh seseorang yang juga menciptakan dan mengembangkan sistem operasi Linux yaitu Linus Torvalds.
+   * Hub sendiri merupakan jiwa GitHub karena fungsinya yang mengubah command line (baris perintah) menjadi jaringan sosial bagi para programmer.
+   * Repositori sendiri adalah deriktori penyimpanan file-file proyek. File-file tersebut bisa berupa file gambar, file kode, atau file audio, 
+     tapi biasanya dan kebanyakan berisi file kode. Letak Repositori sendiri ada di penyimpanan GitHub atau penyimpanan lokal komputer Anda.
+   * Forking Repositori merupakan fitur yang singkatnya berguna untuk menyalin Repositori yang sudah ada ke Repositori baru, lalu menambahkan 
+     beberapa perubahan dan menjadikannya Repositori Anda.
+   * Branch adalah salinan Repositori yang digunakan apabila memulai suatu pengembangan proyek secara terpisah. Branch ini memungkinkan kita 
+     melakukan suatu pengembangan secara terpisah tanpa menggangu Repositori atau Branch lain.
+   * Pull Request merupakan perintah untuk mengirimkan informasi dari Branch ke Master Repositori bahwa Anda telah melakukan perubahan atau 
+     penambahan di Branch.
+     
+4. Sebutkan layanan selain github
+   jawab:
+   * SourceForge 
+   * CodePlex 
+   * BitBucket 
+   * GitLab 
+   * BeanStalk 
+   * Google Cloud Source 
+   
